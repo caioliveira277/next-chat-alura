@@ -1,5 +1,5 @@
 # Next-alura-chat 💬
-## Projeto elaborado na ***imerção dev da alura***
+## Projeto elaborado na ***Imersão dev da alura***
 
 <br>
 <p float="left">
