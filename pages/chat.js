@@ -176,7 +176,7 @@ function MessageList(props) {
                 marginBottom: '16px',
             }}
         >
-            {props.messages.map((data) => {
+            {(props.messages || []).map((data) => {
                 return (
                     <Text
                         key={data.id}
